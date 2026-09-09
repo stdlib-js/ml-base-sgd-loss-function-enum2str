@@ -39,7 +39,8 @@
   "dependencies": {
     "@stdlib/assert-is-string": "^0.2.3",
     "@stdlib/ml-base-sgd-loss-functions": "github:stdlib-js/ml-base-sgd-loss-functions#main",
-    "@stdlib/object-inverse": "^0.1.1"
+    "@stdlib/object-inverse": "^0.1.1",
+    "@stdlib/error-tools-fmtprodmsg": "^0.2.3"
   },
   "devDependencies": {
     "@stdlib/ml-base-sgd-loss-function-str2enum": "github:stdlib-js/ml-base-sgd-loss-function-str2enum#main",
